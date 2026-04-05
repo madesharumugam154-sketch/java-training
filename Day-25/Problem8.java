@@ -1,4 +1,4 @@
-public class Problem4 {
+public class Problem8 {
 
     public static int pairSum(int[] arr) {
 

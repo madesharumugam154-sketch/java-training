@@ -1,4 +1,5 @@
-public class Problem2 {
+public class Problem6
+ {
 
     public static int[] oddEvenList(int[] arr) {
 

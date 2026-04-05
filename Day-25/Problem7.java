@@ -1,4 +1,4 @@
-public class Problem3 {
+public class Problem7 {
 
     public static int[] removeNthFromEnd(int[] arr, int n) {
 

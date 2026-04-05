@@ -1,4 +1,4 @@
-public class Problem1 {
+public class Problem5 {
 
     public static int getIntersection(int[] listA, int[] listB) {
 
