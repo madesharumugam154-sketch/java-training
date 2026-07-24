@@ -26,7 +26,7 @@ public class Problem1 {
         }
         System.out.print("Enter k: ");
         int k = sc.nextInt();
-        Problem1 obj = new Problem1();
+        Problem5 obj = new Problem5();
         double result = obj.findMaxAverage(nums, k);
         System.out.println("Maximum Average = " + result);
         sc.close();
